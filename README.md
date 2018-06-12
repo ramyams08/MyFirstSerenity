@@ -1,3 +1,3 @@
 # MyFirstSerenity
 
-A sample projectto demonstrate usage of serenity BDD framework.
+A sample project to demonstrate usage of serenity BDD framework.
